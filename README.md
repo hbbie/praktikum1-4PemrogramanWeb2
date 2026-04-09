@@ -66,8 +66,7 @@ Dibuat untuk memenuhi tugas **Mata Kuliah Pemrograman Web 2**, dengan tujuan mem
 ## ⚙️ Instalasi
 
 ```bash
-git clone https://github.com/USERNAME/NAMA_REPO.git
-cd NAMA_REPO
+(https://github.com/hbbie/praktikum1-4PemrogramanWeb2.git)
 composer install
 cp env .env
 php spark serve
