@@ -117,8 +117,33 @@ Bahasa: PHP
 Database: MySQL / MariaDB
 Frontend: HTML, CSS (opsional: Bootstrap)
 Server: Apache / XAMPP / Laragon
-⚙️ Instalasi & Setup
-1. Clone Repository
-git clone https://github.com/username/nama-repo.git
-2. Masuk ke Folder Project
+
+Akses:
+
+🎓 Informasi Mahasiswa
+👤 Nama: Dhani Naufal Habibie
+🆔 NIM: 312410300
+📚 Mata Kuliah: Pemrograman Web 2
+👨‍🏫 Dosen: Agung Nugroho, S.Kom., M.Kom.
+🏫 Kelas: I241D
+🚀 Pengembangan Selanjutnya
+Upload gambar artikel
+Pagination
+Multi role user
+REST API
+UI modern (Bootstrap / Tailwind)
+📌 Kesimpulan
+
+Project ini merupakan implementasi dasar sistem web modern dengan fitur login dan manajemen artikel.
+Cocok sebagai fondasi untuk pengembangan aplikasi yang lebih kompleks.
+
+🌟 Support
+
+Kalau project ini membantu:
+
+⭐ Star repository
+🍴 Fork project
 📢 Share ke teman
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/> </p> ```
+
